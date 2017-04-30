@@ -9,7 +9,7 @@
  *
  **/
 
-// Language: Polish, Language Code: pl UTF-8 for ver.1.8.7-beta (2017/04/23, 546)
+// Language: Polish, Language Code: pl UTF-8 for ver.1.8.7-beta (2017/04/30, 547)
 //Zięba Bogusław http://www.krynica.malopolska.pl
 // please use HTML safe strings ONLY,neccessary to reduce processing time
 // normal line break:    '&#13;', JavaScript Linebreak: '\n'
@@ -222,7 +222,7 @@ $BL['be_fprivup_upload']        = 'wgraj';
 $BL['be_fprivedit_title']       = 'edycja informacji o pliku';
 $BL['be_fprivedit_filename']    = 'nazwa pliku';
 $BL['be_fprivedit_created']     = 'utworzony';
-$BL['be_fprivedit_dateformat']  = 'Y-m-d H:i';
+$BL['be_fprivedit_dateformat']  = 'd.m.Y, H:i \U\h\r';
 $BL['be_fprivedit_err1']        = 'skoryguj nazwę pliku (ustaw z powrotem oryginalną)';
 $BL['be_fprivedit_clockwise']   = 'obróć miniaturę zgodnie z ruchem zegara [oryginalny plik +90&deg;]';
 $BL['be_fprivedit_cclockwise']  = 'obróć miniaturę nie zgodnie z ruchem zegara [oryginalny plik -90&deg;]';
